@@ -9,6 +9,7 @@ Merge é a junção das alterações temporárias feitas no brach para inserir n
 5 - O que é pull?
 Trazer alterações do repositório remoto para o repositório local.
 7 - O que é branch?
+É um caminho alternativo na linha da vida para salvar as alterações no projeto.
 8 - O que é pull request?
 9 - O que é fork?
 10 - O que é um VCS?
