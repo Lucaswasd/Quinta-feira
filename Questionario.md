@@ -13,4 +13,5 @@ Trazer alterações do repositório remoto para o repositório local.
 8 - O que é pull request?
 Necessidade de fazer o merge para a brach principal.
 9 - O que é fork?
+Bifurcação de algum respositório para o meu perfil. (cópia de repositórios?)
 10 - O que é um VCS?
