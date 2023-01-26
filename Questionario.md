@@ -11,5 +11,6 @@ Trazer alterações do repositório remoto para o repositório local.
 7 - O que é branch?
 É um caminho alternativo na linha da vida para salvar as alterações no projeto.
 8 - O que é pull request?
+Necessidade de fazer o merge para a brach principal.
 9 - O que é fork?
 10 - O que é um VCS?
