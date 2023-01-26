@@ -4,3 +4,4 @@
 4 - O que é merge?
 5 - O que é pull?
 7 - O que é branch?
+8 - O que é pull request?
