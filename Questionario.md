@@ -7,6 +7,7 @@ Empacotamento de alterações.
 4 - O que é merge?
 Merge é a junção das alterações temporárias feitas no brach para inserir no brach main.
 5 - O que é pull?
+Trazer alterações do repositório remoto para o repositório local.
 7 - O que é branch?
 8 - O que é pull request?
 9 - O que é fork?
