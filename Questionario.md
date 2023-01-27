@@ -15,3 +15,4 @@ Necessidade de fazer o merge para a brach principal.
 9 - O que é fork?
 Bifurcação de algum respositório para o meu perfil. (cópia de repositórios?)
 10 - O que é um VCS?
+Software de controle de versão.
